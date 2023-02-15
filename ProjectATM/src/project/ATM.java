@@ -12,7 +12,6 @@ public class ATM {
 		Bank theBank = new Bank("Bank of India");
 		
 		
-		//juber
 		//add a user, which also creates a saving account
 		
 		User aUser = theBank.addUser("Juber", "Ali", "1234");
